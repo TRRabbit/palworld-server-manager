@@ -14,7 +14,7 @@ much more.
 </p>
 
 <p align="center">
-  🌐 <b><a href="https://royaltymanagers.com/palworld">Website & screenshots</a></b> ·
+  🌐 <b><a href="https://bastionsm.com/palworld">Website & screenshots</a></b> ·
   💬 <a href="https://discord.gg/RjzkFaJsC5">Discord</a> ·
   📦 <a href="https://github.com/TRRabbit/royalty-manager-palworld/releases/latest">Latest release</a>
 </p>
