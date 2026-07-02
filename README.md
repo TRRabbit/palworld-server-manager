@@ -1,4 +1,4 @@
-# Palworld Server Manager — Palworld
+# Palworld Server Manager
 
 **Host and manage your own Palworld dedicated server from a single window — no command line, no config files, no technical knowledge required.**
 
