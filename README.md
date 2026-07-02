@@ -1,14 +1,14 @@
-# Royalty Manager — Palworld
+# Palworld Server Manager — Palworld
 
 **Host and manage your own Palworld dedicated server from a single window — no command line, no config files, no technical knowledge required.**
 
-Royalty Manager Palworld is a Windows desktop app. It downloads the Palworld
+Palworld Server Manager is a Windows desktop app. It downloads the Palworld
 server for you, lets you change every setting through a clean interface, keeps
 the server alive if it crashes, takes automatic backups, talks to Discord, and
 much more.
 
 <p align="center">
-  <a href="https://github.com/TRRabbit/royalty-manager-palworld/releases/latest">
+  <a href="https://github.com/TRRabbit/palworld-server-manager/releases/latest">
     <b>⬇️ Download the latest version</b>
   </a>
 </p>
@@ -16,7 +16,7 @@ much more.
 <p align="center">
   🌐 <b><a href="https://bastionsm.com/palworld">Website & screenshots</a></b> ·
   💬 <a href="https://discord.gg/RjzkFaJsC5">Discord</a> ·
-  📦 <a href="https://github.com/TRRabbit/royalty-manager-palworld/releases/latest">Latest release</a>
+  📦 <a href="https://github.com/TRRabbit/palworld-server-manager/releases/latest">Latest release</a>
 </p>
 
 ---
@@ -100,5 +100,5 @@ See the full breakdown in [Free vs VIP](docs/free-vs-vip.md).
 
 ---
 
-*Royalty Manager Palworld is an independent tool and is not affiliated with or
+*Palworld Server Manager is an independent tool and is not affiliated with or
 endorsed by Pocketpair, Inc. "Palworld" is a trademark of its respective owner.*
